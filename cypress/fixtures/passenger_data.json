@@ -1,26 +1,19 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "12295",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "14/06/2024",
+  "SOURCE_STATION": "KJM",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "DNR",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
+      "NAME": "Mukesh Bhardwaj",
       "AGE": 26,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Side Upper",
       "FOOD": "No Food"
     }
   ],
